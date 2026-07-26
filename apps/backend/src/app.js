@@ -11,6 +11,8 @@ import healthRoutes from './api/routes/health.routes.js';
 import authRoutes from './api/routes/auth.routes.js';
 import meetingRoutes from './api/routes/meeting.routes.js';
 
+
+//Only added to check my PR review Project
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const app = express();
